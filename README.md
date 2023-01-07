@@ -25,4 +25,8 @@ Since thread count is 2 , its populating the data faster as compared to traditio
 
 <img width="1031" alt="Screenshot 2023-01-07 at 9 08 23 PM" src="https://user-images.githubusercontent.com/43849911/211158695-8310e7fa-e3fe-4523-9386-7d3496ead661.png">
 
-<img width="1441" alt="Screenshot 2023-01-07 at 9 10 19 PM" src="https://user-images.githubusercontent.com/43849911/211158770-f954bda9-9393-4568-8c5b-c4c7cd631a09.png">
+<img width="898" alt="Screenshot 2023-01-07 at 9 10 59 PM" src="https://user-images.githubusercontent.com/43849911/211158790-0a4822e3-aa65-4196-9726-f9892283aaca.png">
+
+<img width="903" alt="Screenshot 2023-01-07 at 9 11 48 PM" src="https://user-images.githubusercontent.com/43849911/211158834-4579e438-6b67-41a9-a010-2ad59d605c50.png">
+
+<img width="897" alt="Screenshot 2023-01-07 at 9 12 01 PM" src="https://user-images.githubusercontent.com/43849911/211158843-a774ea4b-5988-4d21-9131-665283a3bd61.png">
