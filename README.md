@@ -22,3 +22,5 @@ Since thread count is 2 , its populating the data faster as compared to traditio
 ``` 
 31s for 3 operations
 ```
+
+<img width="1031" alt="Screenshot 2023-01-07 at 9 08 23 PM" src="https://user-images.githubusercontent.com/43849911/211158695-8310e7fa-e3fe-4523-9386-7d3496ead661.png">
